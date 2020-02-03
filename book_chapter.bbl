@@ -1,10 +1,40 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Acs%
+Z.~Acs%
 \ \BBA {} Audretsch%
 }{%
-Acs%
+Z.~Acs%
+\ \BBA {} Audretsch%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Acs2006}
+\APACinsertmetastar {%
+Acs2006}%
+\begin{APACrefauthors}%
+Acs, Z.%
+\BCBT {}\ \BBA {} Audretsch, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2006}.
+\newblock
+\APACrefbtitle {{Handbook of entrepreneurship research: An interdisciplinary
+  survey and introduction}} {{Handbook of entrepreneurship research: An
+  interdisciplinary survey and introduction}}\ (Z.~Acs\ \BBA {} D.~Audretsch,
+  \BEDS{}).
+\newblock
+\begin{APACrefURL}
+  \url{https://books.google.com/books?hl=en{\&}lr={\&}id=Jpo-3jjaU84C{\&}oi=fnd{\&}pg=PP9{\&}dq=entrepreneurship+social+context+handbook{\&}ots=OS7e7n4C6Y{\&}sig=6tnQJuQCbhG{\_}zM8koCA5daf5JBU}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Z\BPBI J.~Acs%
+\ \BBA {} Audretsch%
+}{%
+Z\BPBI J.~Acs%
 \ \BBA {} Audretsch%
 }{%
 {\protect \APACyear {1988}}%
@@ -27,6 +57,74 @@ Acs, Z\BPBI J.%
 \APACjournalVolNumPages{American Economic Review}{78}{}{678--690}.
 \newblock
 \begin{APACrefURL} \url{https://www.jstor.org/stable/1811167} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{\'{A}}cs%
+, Autio%
+\BCBL {}\ \BBA {} Szerb%
+}{%
+{\'{A}}cs%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Acs2014}
+\APACinsertmetastar {%
+Acs2014}%
+\begin{APACrefauthors}%
+{\'{A}}cs, Z\BPBI J.%
+, Autio, E.%
+\BCBL {}\ \BBA {} Szerb, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{apr}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{National Systems of Entrepreneurship: Measurement
+  issues and policy implications}} {{National Systems of Entrepreneurship:
+  Measurement issues and policy implications}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Research Policy}{43}{3}{476--494}.
+\newblock
+\begin{APACrefURL}
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0048733313001613}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.respol.2013.08.016} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Aguinis%
+\ \BBA {} Glavas%
+}{%
+Aguinis%
+\ \BBA {} Glavas%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Aguinis2019}
+\APACinsertmetastar {%
+Aguinis2019}%
+\begin{APACrefauthors}%
+Aguinis, H.%
+\BCBT {}\ \BBA {} Glavas, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{mar}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{On Corporate Social Responsibility, Sensemaking, and
+  the Search for Meaningfulness Through Work}} {{On Corporate Social
+  Responsibility, Sensemaking, and the Search for Meaningfulness Through
+  Work}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Management}{45}{3}{1057--1086}.
+\newblock
+\begin{APACrefURL}
+  \url{http://journals.sagepub.com/doi/10.1177/0149206317691575}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0149206317691575} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -64,6 +162,89 @@ Aldwin, C\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Audretsch%
+}{%
+Audretsch%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Audretsch2012}
+\APACinsertmetastar {%
+Audretsch2012}%
+\begin{APACrefauthors}%
+Audretsch, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{may}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Entrepreneurship research}} {{Entrepreneurship
+  research}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Management Decision}{50}{5}{755--764}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.emerald.com/insight/content/doi/10.1108/00251741211227384/full/html}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1108/00251741211227384} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baron%
+}{%
+Baron%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Baron.2002}
+\APACinsertmetastar {%
+Baron.2002}%
+\begin{APACrefauthors}%
+Baron, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{OB and entrepreneurship: The reciprocal benefits of
+  closer conceptual links}} {{OB and entrepreneurship: The reciprocal benefits
+  of closer conceptual links}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Research in organizational behavior}{24}{}{225--269}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baron%
+}{%
+Baron%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Baron2006}
+\APACinsertmetastar {%
+Baron2006}%
+\begin{APACrefauthors}%
+Baron, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{feb}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Opportunity Recognition as Pattern Recognition: How
+  Entrepreneurs “Connect the Dots” to Identify New Business Opportunities}}
+  {{Opportunity Recognition as Pattern Recognition: How Entrepreneurs
+  “Connect the Dots” to Identify New Business Opportunities}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Academy of Management Perspectives}{20}{1}{104--119}.
+\newblock
+\begin{APACrefURL} \url{http://journals.aom.org/doi/10.5465/amp.2006.19873412}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.5465/amp.2006.19873412} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Baron%
 }{%
 Baron%
@@ -89,6 +270,35 @@ Baron, R\BPBI A.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.5465/amr.2008.31193166} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bird%
+}{%
+Bird%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+Bird1988}
+\APACinsertmetastar {%
+Bird1988}%
+\begin{APACrefauthors}%
+Bird, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{jul}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Implementing Entrepreneurial Ideas: The Case for
+  Intention}} {{Implementing Entrepreneurial Ideas: The Case for
+  Intention}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Academy of Management Review}{13}{3}{442--453}.
+\newblock
+\begin{APACrefURL} \url{http://journals.aom.org/doi/10.5465/amr.1988.4306970}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.5465/amr.1988.4306970} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -124,6 +334,94 @@ Bledow, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bosma%
+\ \BBA {} Kelley%
+}{%
+Bosma%
+\ \BBA {} Kelley%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Bosma.2019}
+\APACinsertmetastar {%
+Bosma.2019}%
+\begin{APACrefauthors}%
+Bosma, N.%
+\BCBT {}\ \BBA {} Kelley, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Global Entrepreneurship Monitor 2018/2019 Global
+  Report}} {{Global Entrepreneurship Monitor 2018/2019 Global Report}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Babson Park: Global Entrepreneurship Research
+  Association}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brandst{\"{a}}tter%
+}{%
+Brandst{\"{a}}tter%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Brandstatter2011}
+\APACinsertmetastar {%
+Brandstatter2011}%
+\begin{APACrefauthors}%
+Brandst{\"{a}}tter, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{aug}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Personality aspects of entrepreneurship: A look at five
+  meta-analyses}} {{Personality aspects of entrepreneurship: A look at five
+  meta-analyses}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and Individual
+  Differences}{51}{3}{222--230}.
+\newblock
+\begin{APACrefURL}
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0191886910003454}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.paid.2010.07.007} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cardon%
+}{%
+Cardon%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Cardon2008}
+\APACinsertmetastar {%
+Cardon2008}%
+\begin{APACrefauthors}%
+Cardon, M\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{jun}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Is passion contagious? The transference of
+  entrepreneurial passion to employees}} {{Is passion contagious? The
+  transference of entrepreneurial passion to employees}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Human Resource Management Review}{18}{2}{77--86}.
+\newblock
+\begin{APACrefURL}
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S1053482208000077}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.hrmr.2008.04.001} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Carter%
 }{%
 Carter%
@@ -152,33 +450,6 @@ Carter, S.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1540-6520.2010.00422.x} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Casciaro%
-}{%
-Casciaro%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-Casciaro.2014}
-\APACinsertmetastar {%
-Casciaro.2014}%
-\begin{APACrefauthors}%
-Casciaro, T.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Affect in organizational networks}} {{Affect in
-  organizational networks}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Contemporary perspectives on organizational social
-  networks} {Contemporary perspectives on organizational social networks}\
-  (\BPGS\ 219--238).
-\newblock
-\APACaddressPublisher{}{Emerald Group Publishing Limited}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -211,6 +482,57 @@ Certo, S\BPBI T.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.bushor.2008.02.009} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Crant%
+}{%
+Crant%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+Crant1996}
+\APACinsertmetastar {%
+Crant1996}%
+\begin{APACrefauthors}%
+Crant, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Proactive Personality Scale as a Predictor of
+  Entrepreneurial Intention}} {{The Proactive Personality Scale as a Predictor
+  of Entrepreneurial Intention}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Small Business Management}{34}{}{42--49}.
+\newblock
+\begin{APACrefURL} \url{https://www.researchgate.net/publication/247954830}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cunningham%
+}{%
+Cunningham%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Cunningham1991}
+\APACinsertmetastar {%
+Cunningham1991}%
+\begin{APACrefauthors}%
+Cunningham, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+\APACrefbtitle {{Defining Entreprenurship}} {{Defining Entreprenurship}}\
+  \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\begin{APACrefURL} \url{https://www.researchgate.net/publication/270820230}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -280,6 +602,131 @@ Dess, G\BPBI G.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Diener%
+\ \BBA {} Chan%
+}{%
+Diener%
+\ \BBA {} Chan%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Diener2011}
+\APACinsertmetastar {%
+Diener2011}%
+\begin{APACrefauthors}%
+Diener, E.%
+\BCBT {}\ \BBA {} Chan, M\BPBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{mar}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Happy People Live Longer: Subjective Well-Being
+  Contributes to Health and Longevity}} {{Happy People Live Longer: Subjective
+  Well-Being Contributes to Health and Longevity}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Applied Psychology: Health and
+  Well-Being}{3}{1}{1--43}.
+\newblock
+\begin{APACrefURL} \url{http://doi.wiley.com/10.1111/j.1758-0854.2010.01045.x}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1758-0854.2010.01045.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Galindo%
+\ \BBA {} M{\'{e}}ndez%
+}{%
+Galindo%
+\ \BBA {} M{\'{e}}ndez%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Galindo2014}
+\APACinsertmetastar {%
+Galindo2014}%
+\begin{APACrefauthors}%
+Galindo, M\BHBI {\'{A}}.%
+\BCBT {}\ \BBA {} M{\'{e}}ndez, M\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{may}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Entrepreneurship, economic growth, and innovation: Are
+  feedback effects at work?}} {{Entrepreneurship, economic growth, and
+  innovation: Are feedback effects at work?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business Research}{67}{5}{825--829}.
+\newblock
+\begin{APACrefURL}
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0148296313004220}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jbusres.2013.11.052} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gartner%
+}{%
+Gartner%
+}{%
+{\protect \APACyear {1988}}%
+}]{%
+Gartner1988}
+\APACinsertmetastar {%
+Gartner1988}%
+\begin{APACrefauthors}%
+Gartner, W\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1988}{apr}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{“Who Is an Entrepreneur?” Is the Wrong Question}}
+  {{“Who Is an Entrepreneur?” Is the Wrong Question}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Journal of Small Business}{12}{4}{11--32}.
+\newblock
+\begin{APACrefURL}
+  \url{http://journals.sagepub.com/doi/10.1177/104225878801200401}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1177/104225878801200401} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gorgievski%
+\ \BBA {} Stephan%
+}{%
+Gorgievski%
+\ \BBA {} Stephan%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Gorgievski2016a}
+\APACinsertmetastar {%
+Gorgievski2016a}%
+\begin{APACrefauthors}%
+Gorgievski, M\BPBI J.%
+\BCBT {}\ \BBA {} Stephan, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{jul}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Advancing the Psychology of Entrepreneurship: A Review
+  of the Psychological Literature and an Introduction}} {{Advancing the
+  Psychology of Entrepreneurship: A Review of the Psychological Literature and
+  an Introduction}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Applied Psychology}{65}{3}{437--468}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/apps.12073} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hahn%
 , Frese%
 , Binnewies%
@@ -314,6 +761,288 @@ Hahn, V\BPBI C.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1540-6520.2011.00490.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hisrich%
+}{%
+Hisrich%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Hisrich1990}
+\APACinsertmetastar {%
+Hisrich1990}%
+\begin{APACrefauthors}%
+Hisrich, R\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Entrepreneurship/intrapreneurship.}}
+  {{Entrepreneurship/intrapreneurship.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Psychologist}{45}{2}{209--222}.
+\newblock
+\begin{APACrefURL}
+  \url{http://doi.apa.org/getdoi.cfm?doi=10.1037/0003-066X.45.2.209}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1037/0003-066X.45.2.209} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lumpkin%
+\ \BBA {} Dess%
+}{%
+Lumpkin%
+\ \BBA {} Dess%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+Lumpkin1996}
+\APACinsertmetastar {%
+Lumpkin1996}%
+\begin{APACrefauthors}%
+Lumpkin, G\BPBI T.%
+\BCBT {}\ \BBA {} Dess, G\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{jan}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Clarifying the Entrepreneurial Orientation Construct
+  and Linking It To Performance}} {{Clarifying the Entrepreneurial Orientation
+  Construct and Linking It To Performance}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Academy of Management Review}{21}{1}{135--172}.
+\newblock
+\begin{APACrefURL}
+  \url{http://journals.aom.org/doi/10.5465/amr.1996.9602161568}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.5465/amr.1996.9602161568} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marcotte%
+}{%
+Marcotte%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Marcotte2013}
+\APACinsertmetastar {%
+Marcotte2013}%
+\begin{APACrefauthors}%
+Marcotte, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{apr}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Measuring entrepreneurship at the country level: A
+  review and research agenda}} {{Measuring entrepreneurship at the country
+  level: A review and research agenda}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Entrepreneurship {\&} Regional
+  Development}{25}{3-4}{174--194}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.tandfonline.com/doi/abs/10.1080/08985626.2012.710264}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/08985626.2012.710264} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Moroz%
+\ \BBA {} Hindle%
+}{%
+Moroz%
+\ \BBA {} Hindle%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Moroz2012}
+\APACinsertmetastar {%
+Moroz2012}%
+\begin{APACrefauthors}%
+Moroz, P\BPBI W.%
+\BCBT {}\ \BBA {} Hindle, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{jul}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Entrepreneurship as a Process: Toward Harmonizing
+  Multiple Perspectives}} {{Entrepreneurship as a Process: Toward Harmonizing
+  Multiple Perspectives}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Entrepreneurship Theory and Practice}{36}{4}{781--818}.
+\newblock
+\begin{APACrefURL}
+  \url{http://journals.sagepub.com/doi/10.1111/j.1540-6520.2011.00452.x}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1540-6520.2011.00452.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Obschonka%
+\ \BBA {} Stuetzer%
+}{%
+Obschonka%
+\ \BBA {} Stuetzer%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Obschonka2017}
+\APACinsertmetastar {%
+Obschonka2017}%
+\begin{APACrefauthors}%
+Obschonka, M.%
+\BCBT {}\ \BBA {} Stuetzer, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{jun}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Integrating psychological approaches to
+  entrepreneurship: the Entrepreneurial Personality System (EPS)}}
+  {{Integrating psychological approaches to entrepreneurship: the
+  Entrepreneurial Personality System (EPS)}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Small Business Economics}{49}{1}{203--231}.
+\newblock
+\begin{APACrefURL} \url{http://link.springer.com/10.1007/s11187-016-9821-y}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11187-016-9821-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rauch%
+\ \BBA {} Frese%
+}{%
+Rauch%
+\ \BBA {} Frese%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Rauch2007}
+\APACinsertmetastar {%
+Rauch2007}%
+\begin{APACrefauthors}%
+Rauch, A.%
+\BCBT {}\ \BBA {} Frese, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Born to be an entrepreneur? Revisiting the personality
+  approach to entrepreneurship}} {{Born to be an entrepreneur? Revisiting the
+  personality approach to entrepreneurship}}.{\BBCQ}
+\newblock
+\BIn{} R.~Baum, M.~Frese\BCBL {}\ \BBA {} R\BPBI A.~Baron\ (\BEDS),
+  \APACrefbtitle {The Psychology of Entrepreneurship} {The psychology of
+  entrepreneurship}\ (\BPGS\ 41--62).
+\newblock
+\begin{APACrefURL}
+  \url{https://books.google.com/books?hl=en{\&}lr={\&}id=h{\_}FfAwAAQBAJ{\&}oi=fnd{\&}pg=PA41{\&}dq=rauch+frese+2000+entrepreneurship{\&}ots=gGzDOGI6Vw{\&}sig=c0VLX7tqTbW01rDXbPVgyBqDtsc}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reynolds%
+\ \BBA {} Miller%
+}{%
+Reynolds%
+\ \BBA {} Miller%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Reynolds.1992}
+\APACinsertmetastar {%
+Reynolds.1992}%
+\begin{APACrefauthors}%
+Reynolds, P.%
+\BCBT {}\ \BBA {} Miller, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{New firm gestation: Conception, birth, and implications
+  for research}} {{New firm gestation: Conception, birth, and implications for
+  research}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business Venturing}{7}{5}{405--417}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reynolds%
+, Storey%
+\BCBL {}\ \BBA {} Westhead%
+}{%
+Reynolds%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1994}}%
+}]{%
+Reynolds1994}
+\APACinsertmetastar {%
+Reynolds1994}%
+\begin{APACrefauthors}%
+Reynolds, P.%
+, Storey, D\BPBI J.%
+\BCBL {}\ \BBA {} Westhead, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{jul}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Cross-national Comparisons of the Variation in New Firm
+  Formation Rates}} {{Cross-national Comparisons of the Variation in New Firm
+  Formation Rates}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Regional Studies}{28}{4}{443--456}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.tandfonline.com/doi/abs/10.1080/00343409412331348386}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/00343409412331348386} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rotefoss%
+\ \BBA {} Kolvereid%
+}{%
+Rotefoss%
+\ \BBA {} Kolvereid%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Rotefoss.2005}
+\APACinsertmetastar {%
+Rotefoss.2005}%
+\begin{APACrefauthors}%
+Rotefoss, B.%
+\BCBT {}\ \BBA {} Kolvereid, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Aspiring, nascent and fledgling entrepreneurs: an
+  investigation of the business start-up process}} {{Aspiring, nascent and
+  fledgling entrepreneurs: an investigation of the business start-up
+  process}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Entrepreneurship {\&} Regional
+  Development}{17}{2}{109--127}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -374,12 +1103,71 @@ Shir, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Spencer%
+\ \BBA {} G{\'{o}}mez%
+}{%
+Spencer%
+\ \BBA {} G{\'{o}}mez%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Spencer2004}
+\APACinsertmetastar {%
+Spencer2004}%
+\begin{APACrefauthors}%
+Spencer, J\BPBI W.%
+\BCBT {}\ \BBA {} G{\'{o}}mez, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{oct}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The relationship among national institutional
+  structures, economic factors, and domestic entrepreneurial activity: a
+  multicountry study}} {{The relationship among national institutional
+  structures, economic factors, and domestic entrepreneurial activity: a
+  multicountry study}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business Research}{57}{10}{1098--1107}.
+\newblock
+\begin{APACrefURL}
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0148296303000407}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/S0148-2963(03)00040-7} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Stephan%
 }{%
 Stephan%
 }{%
 {\protect \APACyear {2018}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Stephan.2018}
+\APACinsertmetastar {%
+Stephan.2018}%
+\begin{APACrefauthors}%
+Stephan, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Entrepreneurs' mental health and well-being: A review
+  and research agenda}} {{Entrepreneurs' mental health and well-being: A review
+  and research agenda}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Academy of Management Perspectives}{32}{3}{290--322}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stephan%
+}{%
+Stephan%
+}{%
+{\protect \APACyear {2018}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
 Stephan2018}
 \APACinsertmetastar {%
 Stephan2018}%
@@ -388,7 +1176,7 @@ Stephan, U.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2018}{aug}{}.
+\APACrefYearMonthDay{2018{\protect \BCnt {2}}}{aug}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Entrepreneurs' Mental Health and Well-Being: A Review
   and Research Agenda}} {{Entrepreneurs' Mental Health and Well-Being: A Review
@@ -400,6 +1188,193 @@ Stephan, U.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.5465/amp.2017.0001} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Unanue%
+, G{\'{o}}mez%
+, Cortez%
+, Oyanedel%
+\BCBL {}\ \BBA {} Mendiburo-Seguel%
+}{%
+Unanue%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Unanue2017}
+\APACinsertmetastar {%
+Unanue2017}%
+\begin{APACrefauthors}%
+Unanue, W.%
+, G{\'{o}}mez, M\BPBI E.%
+, Cortez, D.%
+, Oyanedel, J\BPBI C.%
+\BCBL {}\ \BBA {} Mendiburo-Seguel, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{may}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Revisiting the Link between Job Satisfaction and Life
+  Satisfaction: The Role of Basic Psychological Needs}} {{Revisiting the Link
+  between Job Satisfaction and Life Satisfaction: The Role of Basic
+  Psychological Needs}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Psychology}{8}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://journal.frontiersin.org/article/10.3389/fpsyg.2017.00680/full}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2017.00680} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Van De Voorde}%
+, Paauwe%
+\BCBL {}\ \BBA {} {Van Veldhoven}%
+}{%
+{Van De Voorde}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+VanDeVoorde2012}
+\APACinsertmetastar {%
+VanDeVoorde2012}%
+\begin{APACrefauthors}%
+{Van De Voorde}, K.%
+, Paauwe, J.%
+\BCBL {}\ \BBA {} {Van Veldhoven}, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{dec}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Employee Well-being and the HRM-Organizational
+  Performance Relationship: A Review of Quantitative Studies}} {{Employee
+  Well-being and the HRM-Organizational Performance Relationship: A Review of
+  Quantitative Studies}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Management
+  Reviews}{14}{4}{391--407}.
+\newblock
+\begin{APACrefURL} \url{http://doi.wiley.com/10.1111/j.1468-2370.2011.00322.x}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1468-2370.2011.00322.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Van Praag}%
+\ \BBA {} Versloot%
+}{%
+{Van Praag}%
+\ \BBA {} Versloot%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+VanPraag2007}
+\APACinsertmetastar {%
+VanPraag2007}%
+\begin{APACrefauthors}%
+{Van Praag}, C\BPBI M.%
+\BCBT {}\ \BBA {} Versloot, P\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{nov}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{What is the value of entrepreneurship? A review of
+  recent research}} {{What is the value of entrepreneurship? A review of recent
+  research}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Small Business Economics}{29}{4}{351--382}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11187-007-9074-x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van Gelderen%
+, Thurik%
+\BCBL {}\ \BBA {} Bosma%
+}{%
+van Gelderen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+vanGelderen.2005}
+\APACinsertmetastar {%
+vanGelderen.2005}%
+\begin{APACrefauthors}%
+van Gelderen, M.%
+, Thurik, R.%
+\BCBL {}\ \BBA {} Bosma, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Success and risk factors in the pre-startup phase}}
+  {{Success and risk factors in the pre-startup phase}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Small Business Economics}{24}{4}{365--380}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Venkataraman%
+}{%
+Venkataraman%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Venkataraman.2019}
+\APACinsertmetastar {%
+Venkataraman.2019}%
+\begin{APACrefauthors}%
+Venkataraman, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The distinctive domain of entrepreneurship research}}
+  {{The distinctive domain of entrepreneurship research}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Seminal Ideas for the Next Twenty-Five Years of
+  Advances} {Seminal ideas for the next twenty-five years of advances}\ (\BPGS\
+  5--20).
+\newblock
+\APACaddressPublisher{}{Emerald Publishing Limited}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Weaver%
+}{%
+Weaver%
+}{%
+{\protect \APACyear {1978}}%
+}]{%
+WEAVER1978}
+\APACinsertmetastar {%
+WEAVER1978}%
+\begin{APACrefauthors}%
+Weaver, C\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1978}{dec}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Job satisfaction as a component of happiness among
+  males and females}} {{Job satisfaction as a component of happiness among
+  males and females}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personnel Psychology}{31}{4}{831--840}.
+\newblock
+\begin{APACrefURL}
+  \url{http://doi.wiley.com/10.1111/j.1744-6570.1978.tb02126.x}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1744-6570.1978.tb02126.x} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -438,6 +1413,39 @@ Wiklund, J.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.jbusvent.2019.01.002} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhao%
+\ \BBA {} Seibert%
+}{%
+Zhao%
+\ \BBA {} Seibert%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Zhao2006}
+\APACinsertmetastar {%
+Zhao2006}%
+\begin{APACrefauthors}%
+Zhao, H.%
+\BCBT {}\ \BBA {} Seibert, S\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Big Five personality dimensions and entrepreneurial
+  status: A meta-analytical review.}} {{The Big Five personality dimensions and
+  entrepreneurial status: A meta-analytical review.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Applied Psychology}{91}{2}{259--271}.
+\newblock
+\begin{APACrefURL}
+  \url{http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.91.2.259}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1037/0021-9010.91.2.259} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

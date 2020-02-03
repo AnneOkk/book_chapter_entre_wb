@@ -1,6 +1,0 @@
-\begin{figure*}[hbt]
-\ifnextchar[{\eatarg}{}
-
-\centering
-\caption{\label{fig:frog}This is a figure caption.}
-\end{figure*}
